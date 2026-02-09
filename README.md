@@ -20,3 +20,9 @@ Insurance Fraud Detection System using Machine Learning and Streamlit.
 ```bash
 pip install streamlit scikit-learn pandas numpy
 streamlit run app.py
+
+📊 Dataset
+Insurance Claims Dataset (CSV)
+
+👨‍💻 Author
+Ashraf
